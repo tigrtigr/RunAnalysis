@@ -3,9 +3,9 @@ Only variables representing mean and standard deviation for each measurement wer
 
 Variables in means.txt:
 
-(1)"subject" - subject id
-(2)"activity" - activity name
-(3:68) Measurements:
+- "subject" - subject id
+- "activity" - activity name
+- Measurements:
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"
 "tBodyAcc-mean()-Z"
